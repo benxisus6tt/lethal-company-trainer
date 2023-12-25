@@ -1,6 +1,6 @@
 
 <hr>
-<p align=center> <img src='https://media.photographycourse.net/wp-content/uploads/2022/04/08160120/09-WB-slider.jpg'></p>
+<p align=center> <img src='https://i.imgur.com/LoV21Cn.png'></p>
 <table align=center>
   <tr>
     <th></th>
